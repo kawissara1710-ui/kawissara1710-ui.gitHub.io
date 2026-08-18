@@ -7,7 +7,7 @@ body {
   color: #333;
 }
 header  {
-  background: ##03fc13;
+  background: #fc0303;
   color: white;
   padding: 20px 0;
   text-align: center;
@@ -27,7 +27,7 @@ section {
   box-shadow: 0 0 10px rgbe(0, 0, 0, 0.1);
 }
 h2 {
-  color: ##03fc13;
+  color: #fc0303;
 }
 .project {
   margin-bottom: 20px;
